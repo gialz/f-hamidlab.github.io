@@ -94,6 +94,8 @@ collections:
     output: true
   team:
     people: true
+  teamh:
+    people: true
   alumni:
     people: true
   tools:

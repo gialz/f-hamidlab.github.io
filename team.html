@@ -25,11 +25,11 @@ image: lab_move2.jpg
 <div style="margin:0 2%;">
 <h1 class="entry">Honorary members</h1> 
 <div class="grid-flow">
-  {% for membera in site.teamh %}
+  {% for member in site.teamh %}
       <div class="profilegrid">
-        <img src="{{ site.baseurl }}/images/{{ membera.image }}" style="width:250px;height:250px;">
-        <h2 style="color:#303C6C">{{ membera.name }}</h2>
-        <p>{{ membera.position }}</p>
+        <img src="{{ site.baseurl }}/images/{{ member.image }}" style="width:250px;height:250px;">
+        <h2 style="color:#303C6C">{{ member.name }}</h2>
+        <p>{{ member.position }}</p>
       </div>
       
   {% endfor %}

@@ -1,5 +1,5 @@
 ---
-name: Eby Lily Bickel
+name: Ebu Lily Bickel
 position: Genotyping Technician
-image: Jane.jpg
+image: Lily.jpg
 ---
