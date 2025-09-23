@@ -1,5 +1,5 @@
 ---
 name: Srilakshmi Ramakumar
-position: Msc Research student
+position: Visiting Researcher
 image: 7_Srilakshmi.jpg
 ---

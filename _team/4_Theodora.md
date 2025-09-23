@@ -1,5 +1,5 @@
 ---
 name: Theodora Tan
-position: Intern
+position: Visiting Researcher
 image: TT.jpg
 ---
